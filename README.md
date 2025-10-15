@@ -8,7 +8,7 @@ Check out my SQL queries here: [project_sql folder](/project_sql/)
 
 The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective. 
 
-The data for this analysis is from Luke Barousse’s SQL Course (include link to the course). This data includes details on job titles, salaries, locations, and required skills. 
+The data for this analysis is from Luke Barousse’s SQL Course [sqlcourse]([ww](https://www.lukebarousse.com/products/sql-for-data-analytics)). This data includes details on job titles, salaries, locations, and required skills. 
 
 The questions I wanted to answer through my SQL queries were:
 
